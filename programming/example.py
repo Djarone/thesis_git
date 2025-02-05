@@ -1,3 +1,4 @@
+#%%
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan  8 16:01:06 2025
@@ -61,7 +62,6 @@ plt.ylabel('MAE')
 plt.title('Training MAE Over Epochs')
 plt.legend()
 
-plt.show()
 
 # Visualizing the Predictions vs Actual
 plt.figure(figsize=(8, 6))
@@ -72,8 +72,16 @@ plt.xlabel('Input (x)')
 plt.ylabel('Output (y)')
 plt.title('Model Predictions vs Actual Data')
 plt.legend()
-plt.show()
 
 print("\nPredictions for test inputs:")
 for i, pred in enumerate(predictions):
     print(f"Input: {test_x[i][0]:.2f}, Prediction: {pred[0]:.2f}")
+
+
+
+
+
+
+
+
+

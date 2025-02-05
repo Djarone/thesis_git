@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.30)  30 JAN 2025 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.30)  4 FEB 2025 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,7 +693,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `kulemtfpf' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<logokuleng.pdf, id=123, 159.33528pt x 85.358pt>
+<logokuleng.pdf, id=119, 159.33528pt x 85.358pt>
 File: logokuleng.pdf Graphic file (type pdf)
 <use logokuleng.pdf>
 Package pdftex.def Info: logokuleng.pdf  used on input line 39.
@@ -786,6 +786,41 @@ Overfull \hbox (0.86812pt too wide) in paragraph at lines 94--94
 \openout2 = `intro.aux'.
 
  (intro.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
 
 [1
 
@@ -812,7 +847,10 @@ Package microtype Info: Character `029' is missing
 \openout2 = `chap-2.aux'.
 
  (chap-2.tex
-<logokul.pdf, id=240, 159.33528pt x 56.90298pt>
+
+LaTeX Warning: Citation `pratchett06:_good_omens' on page 5 undefined on input line 11.
+
+<logokul.pdf, id=248, 159.33528pt x 56.90298pt>
 File: logokul.pdf Graphic file (type pdf)
 <use logokul.pdf>
 Package pdftex.def Info: logokul.pdf  used on input line 18.
@@ -931,21 +969,25 @@ bibitemlist
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `masterproef.out' has not changed.
-(rerunfilecheck)             Checksum: 0FB871835A5381E6AA4CEF2CAE04D3F9;3912.
+(rerunfilecheck)             Checksum: 40BE3FDAE3DEC9B1F4AF10C6F44CB24C;3773.
  ) 
 Here is how much of TeX's memory you used:
- 17061 strings out of 473536
- 281170 string characters out of 5714956
- 845478 words of memory out of 5000000
- 39747 multiletter control sequences out of 15000+600000
- 634499 words of font info for 150 fonts, out of 8000000 for 9000
+ 17075 strings out of 473536
+ 281302 string characters out of 5714956
+ 845643 words of memory out of 5000000
+ 39752 multiletter control sequences out of 15000+600000
+ 634759 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,12n,107p,1059b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/aron-/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on masterproef.pdf (30 pages, 347119 bytes).
+Output written on masterproef.pdf (30 pages, 352494 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 40187 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 40179 words of extra memory for PDF output out of 42996 (max. 10000000)
 
